@@ -1,0 +1,10 @@
+customerRatingImage, 73
+giftOptions, 502
+sellerInfo, 542
+freeShippingOver50Dollars, 542
+msrp, 574
+modelNumber, 600
+upc, 942
+longDescription, 992
+categoryNode, 997
+marketplace, 998
